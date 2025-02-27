@@ -12,7 +12,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.HashMap;
 import java.util.Map;
-import jdk.vm.ci.sparc.SPARC;
 import org.codehaus.jettison.json.JSONArray;
 
 /**
